@@ -1,7 +1,9 @@
-# India API https://indiaapi.com
+# India API 
+
+https://indiaapi.com
 
 
-Generate token using https://indiaapi.com/api/token
+Generate token using `https://indiaapi.com/api/token`
 
 ```bash
 curl -X 'GET' \
@@ -12,17 +14,17 @@ curl -X 'GET' \
 List of available API
 
 ### Airport List 
-Domestic - https://indiaapi.com/api/airport/dom
-International - https://indiaapi.com/api/airport/int
+- Domestic - https://indiaapi.com/api/airport/dom
+- International - https://indiaapi.com/api/airport/int
 
 ### State List
-State list by State https://indiaapi.com/api/states
+- State list by State https://indiaapi.com/api/states
 
 ### City List
-City list by State https://indiaapi.com/api/city?state_code=
+- City list by State https://indiaapi.com/api/city?state_code=
 
 ### Banks
-Bank List https://indiaapi.com/api/banks
+- Bank List https://indiaapi.com/api/banks
 
 ### Languages
-Languages List https://indiaapi.com/api/languages
+- Languages List https://indiaapi.com/api/languages
