@@ -28,3 +28,27 @@ List of available API
 
 ### Languages
 - Languages List https://indiaapi.com/api/languages
+
+### School
+TBA
+
+### College List
+TBA
+
+### University List
+TBA
+
+### Train List
+TBA
+
+### Railway Station List
+TBA
+
+### Public WIFI
+TBA
+
+### Forts
+TBA
+
+### Rivers
+TBA
